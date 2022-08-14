@@ -376,4 +376,5 @@ print(myorder.format(quantity,price,itemno))
 
 
 #Git push
+print("git commit")
 print("git push")
